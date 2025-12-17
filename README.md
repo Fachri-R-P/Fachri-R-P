@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fachri Rachmansyah Putra
 
-🎯 **Data Analyst | Machine Learning Enthusiast | Automation Builder**
+🎯 **Data Analyst | Data Scientist | Machine Learning Enthusiast**
 
 Saya tertarik pada **data analytics, machine learning, dan workflow automation**.  
 Berpengalaman mengolah data menjadi insight, membangun model ML end-to-end, serta membuat automasi menggunakan tools modern seperti **Python, SQL, MLflow, dan Docker**.
