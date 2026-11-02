@@ -8,7 +8,7 @@ Berpengalaman mengolah data menjadi insight, membangun model ML end-to-end, sert
 ---
 
 ## 🚀 About Me
-- 🎓 Undergraduate Information System Student – **Universitas Gunadarma**
+- 🎓 Graduated Information System Student – **Universitas Gunadarma**
 - 📊 Data Scientist Apprenticeship - **VINIX7 2025**
 - 🧠 Machine Learning Cohort – **Asah by Dicoding Indonesia 2025**
 - 💼 Treasury Intern – **Persada Sokka Tama by Telkom Group**
